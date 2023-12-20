@@ -9,4 +9,8 @@ hello
 333
 444
 hotfix1111
+<<<<<<< HEAD
 master modify 5554
+=======
+hotfix2222
+>>>>>>> hotfix
